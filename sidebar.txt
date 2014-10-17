@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xmw:home|Door43 (xmw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xmw|d43-xmw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xmw/archive/master.zip|d43-xmw.zip]]
+
+**Recent Changes**
+{{changes>ns = xmw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xmw|Ethnologue data]]
+
